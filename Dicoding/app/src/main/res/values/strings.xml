@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Genshin Impact Data</string>
+    <string name="item_name">Name Character</string>
+    <string name="item_name_artifact">Name Artifact</string>
+    <string name="item_name_weapon">Name Weapon</string>
+    <string name="item_ability">Ability Character</string>
+    <string name="item_artifactone">First Artifact</string>
+    <string name="item_artifacttwo">Second Artifact</string>
+    <string name="item_domain">Domain Artifact</string>
+    <string name="detail_name">Name Detail</string>
+    <string name="detail_info">Info Detail | Info Detail | Info Detail | Info Detail | Info Detail | Info Detail | Info Detail</string>
+    <string name="detail_artifactone">First Artifact Detail</string>
+    <string name="detail_artifacttwo">Second Artifact Detail</string>
+    <string name="detail_baseatk">Base ATK Detail</string>
+    <string name="detail_second">2nd Stat Detail</string>
+    <string name="detail_passive">Passive Detail</string>
+    <string name="detail_ability">Ability Detail | Ability Detail | Ability Detail | Ability Detail | Ability Detail</string>
+    <string name="about_name">Dwiky Pandu Aqri</string>
+    <string name="about_email">dwikypanduaqri22@gmail.com</string>
+    <string name="about_copyright">All assets are property of Wikipedia</string>
+</resources>
